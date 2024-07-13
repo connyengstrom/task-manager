@@ -12,6 +12,6 @@
 - Git installed
 
 ## Use
-npm start
-cd ../backend
-npm start
+- npm start
+- cd ../backend
+- npm start
